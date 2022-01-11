@@ -1,0 +1,25 @@
+{
+    "name": "Cauldens Skateboards",
+    "version": "0.0.1",
+    "description": "The official website for cauldens skateboards website.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "repository": {
+        "url": "https://glitch.com/edit/#!/hello-express"
+    },
+    "license": "MIT",
+    "keywords": [
+        "skateboards",
+        "skateshop",
+        "skate-warehouse"
+    ]
+}
