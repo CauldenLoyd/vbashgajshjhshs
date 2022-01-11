@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 var colors = require('colors');
 
-app.get('/', function (request, response) {
+app.get('/defaultsite', function (request, response) {
     response.sendFile('/index.html')
 });
 
